@@ -23,7 +23,7 @@
 
 
 ############################################################################
-#   VERSION HISTORY BEGIN   ################################################
+#   VERSION HACKER BOY   ################################################
 ############################################################################
 
 # v2.0
@@ -1049,9 +1049,9 @@ showDisclaimer(){
 	$cyan
 	echo ""
 	echo "****************************************************************************************************"
-	echo "THIS WILL TERMINATE ANY ACTIVE INTERNET CONNECTION! IF YOU HAVE ISSUES CONNECTING TO THE INTERNET"
-	echo "AFTER AN ATTACK HAS BEEN PERFORMED, USE THE EXTRAS OPTION IN TOOLBAR TO START AND STOP SERVICES."
-	echo "IF THIS DOES NOT WORK, THEN YOU CAN RESTART THIS SCRIPT, OR REBOOT THE MACHINE AND RETURN TO NORMAL."
+	echo "INI AKAN MENGAKHIRI KONEKSI INTERNET YANG AKTIF! JIKA ANDA MEMILIKI MASALAH YANG BERHUBUNGAN DENGAN INTERNET "
+        echo "SETELAH SERANGAN TELAH DILAKUKAN, GUNAKAN OPSI EXTRAS DI TOOLBAR UNTUK MEMULAI DAN BERHENTI LAYANAN "
+        echo "JIKA INI TIDAK BEKERJA, KEMUDIAN ANDA BISA MEMULAI ULANG SCRIPT INI, ATAU KEMUDI KEMBALI MESIN DAN KEMBALI KE NORMAL."
 	echo "****************************************************************************************************"
 	echo ""
 	$green
@@ -1070,13 +1070,13 @@ showDisclaimer(){
 	echo ""
 	$green
 	echo "**********************************************************"
-	echo "YOU MUST AGREE TO THESE TERMS BEFORE USING THIS SOFTWARE!"
+	echo "ANDA HARUS MENYETUJUI PERSYARATAN INI SEBELUM MENGGUNAKAN PERANGKAT LUNAK INI!"
 	echo "**********************************************************"
 	$white
 	echo ""
 	echo ""
 	echo ""
-	echo "PLEASE PRESS "\""Y"\"" AND ENTER TO ACCEPT AND CONTINUE"
+	echo "TOLONG PENCET "\""Y"\"" DAN TEKAN ENTER UNTUK MELANJUTKAN"
 	echo ""
 
 	read agreeToDisclaimer
@@ -1228,7 +1228,7 @@ bannerNoMenu(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C x2 ] Exit  |"
+	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/rayadinata765 *    | [CTRL+C x2 ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
